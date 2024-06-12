@@ -1,1 +1,1 @@
-# QAP-2-Files-LO
+QAP-2 Files JavaScript (Semester 2)
